@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyConstraintLayout</string>
+    <string name="boxOneTxt">Box One</string>
+</resources>
