@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">MyConstraintLayout</string>
     <string name="boxOneTxt">Box One</string>
+    <string name="boxTwoTxt">Box Two</string>
+    <string name="BoxFiveTxt">Box Five</string>
+    <string name="BoxThreeTxt">Box Three</string>
+    <string name="BoxFourTxt">Box Four</string>
 </resources>
